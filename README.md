@@ -19,4 +19,9 @@ Given a dataset containing the stock prices of Netflix, including columns such a
 
    3.Add year and month sekection for better insingths into the data 
 
+
+## ss 
+
+
+
      
